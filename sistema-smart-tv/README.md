@@ -1,7 +1,7 @@
 ##   Mini Projeto em Java 
 
 Projeto criado no curso de Java.
- O projeto tem como finalidade representar um sistem de uma TV onde o usuario pode interagir aumentando e diminuindo o volume da TV e tambem mudar de canal.
+ O projeto tem como finalidade representar um sistema de uma TV onde o usuario pode interagir aumentando e diminuindo o volume da TV e tambem mudar de canal.
 
 
 ## Linguagem usada
